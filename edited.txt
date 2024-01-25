@@ -1,0 +1,10 @@
+$10000
+This is an example script.
+Every line break will make a new TTS file.
+Lines that start with "$" are silences.  In milliseconds.
+Lines that start with "!" are sound effects.  In milliseconds.
+$10000
+!1000
+$10000
+That's it.
+G L H F.
