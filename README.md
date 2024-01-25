@@ -1,7 +1,5 @@
-BASIC TUTORIAL:
-
-Upload the notebook to CoLab.
-Put the files where they need to be.  There are instructions in the notebook.
-There is an example script, included.
-
-Make something cool.
+The notebooks have instructions.
+We spent twice as long writting a tutorial into the comments in the code than we spent writing the code.
+As of the time this is being written, these notebooks will run on Google CoLab.
+The accounts are free.
+Run them on the GPU tier.
